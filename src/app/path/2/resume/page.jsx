@@ -132,22 +132,6 @@ export default function Resume(){
                     </div>
                     <div class="timeline">
                         <div class="left-tl-content">
-                            <h5 class="tl-title">Profestion</h5>
-                            <p class="para">2019 - 2020</p>
-                        </div>
-                        <div class="right-tl-content">
-                            <div class="tl-content">
-                                <h5 class="tl-title-2">Position</h5>
-                                <p class="para">
-                                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestias cupiditate vitae 
-                                    voluptatem deleniti, 
-                                    laboriosam odio nobis quae fugit facilis quo.
-                                </p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="timeline">
-                        <div class="left-tl-content">
                             <h5 class="tl-title">Five Guys</h5>
                             <p class="para">2023-present</p>
                         </div>
